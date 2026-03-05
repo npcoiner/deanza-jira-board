@@ -45,7 +45,9 @@
     "key": "CCS-16",
     "summary": "Music",
     "status": "Artist To-Do",
-    "tags": []
+    "tags": [
+      "Caleb"
+    ]
   },
   {
     "key": "CCS-18",
@@ -136,5 +138,21 @@
     "summary": "Pickup/Drop Ores",
     "status": "SCRIPTER TO DO",
     "tags": []
+  },
+  {
+    "key": "CCS-37",
+    "summary": "Anvil SFX",
+    "status": "Artist To-Do",
+    "tags": [
+      "Veda"
+    ]
+  },
+  {
+    "key": "CCS-38",
+    "summary": "Station",
+    "status": "SCRIPTER TO DO",
+    "tags": [
+      "Nick"
+    ]
   }
 ]
