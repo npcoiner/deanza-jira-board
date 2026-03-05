@@ -1,0 +1,140 @@
+[
+  {
+    "key": "CCS-7",
+    "summary": "Finalize Club Project Idea",
+    "status": "GENERAL TO-DO",
+    "tags": ["Nicholas"]
+  },
+  {
+    "key": "CCS-9",
+    "summary": "Crafting System",
+    "status": "GENERAL TO-DO",
+    "tags": []
+  },
+  {
+    "key": "CCS-10",
+    "summary": "Assign Roles",
+    "status": "GENERAL TO-DO",
+    "tags": []
+  },
+  {
+    "key": "CCS-11",
+    "summary": "Concept Art",
+    "status": "Artist To-Do",
+    "tags": []
+  },
+  {
+    "key": "CCS-12",
+    "summary": "Environment",
+    "status": "Artist To-Do",
+    "tags": []
+  },
+  {
+    "key": "CCS-13",
+    "summary": "Character Sprite",
+    "status": "Artist To-Do",
+    "tags": []
+  },
+  {
+    "key": "CCS-14",
+    "summary": "UI",
+    "status": "Artist To-Do",
+    "tags": []
+  },
+  {
+    "key": "CCS-16",
+    "summary": "Music",
+    "status": "Artist To-Do",
+    "tags": []
+  },
+  {
+    "key": "CCS-18",
+    "summary": "Movement",
+    "status": "COMPLETE",
+    "tags": []
+  },
+  {
+    "key": "CCS-20",
+    "summary": "Interact",
+    "status": "COMPLETE",
+    "tags": []
+  },
+  {
+    "key": "CCS-27",
+    "summary": "Create \"Done\" Column",
+    "status": "COMPLETE",
+    "tags": []
+  },
+  {
+    "key": "CCS-17",
+    "summary": "Grabbing",
+    "status": "COMPLETE",
+    "tags": []
+  },
+  {
+    "key": "CCS-19",
+    "summary": "Dropping",
+    "status": "COMPLETE",
+    "tags": []
+  },
+  {
+    "key": "CCS-21",
+    "summary": "Forge",
+    "status": "Artist To-Do",
+    "tags": []
+  },
+  {
+    "key": "CCS-22",
+    "summary": "Default",
+    "status": "Artist To-Do",
+    "tags": []
+  },
+  {
+    "key": "CCS-23",
+    "summary": "Item",
+    "status": "Artist To-Do",
+    "tags": []
+  },
+  {
+    "key": "CCS-24",
+    "summary": "Sword",
+    "status": "Artist To-Do",
+    "tags": []
+  },
+  {
+    "key": "CCS-25",
+    "summary": "Dagger",
+    "status": "Artist To-Do",
+    "tags": []
+  },
+  {
+    "key": "CCS-26",
+    "summary": "Hammer",
+    "status": "Artist To-Do",
+    "tags": []
+  },
+  {
+    "key": "CCS-32",
+    "summary": "Forge System",
+    "status": "SCRIPTER TO DO",
+    "tags": []
+  },
+  {
+    "key": "CCS-33",
+    "summary": "Ores",
+    "status": "Artist To-Do",
+    "tags": []
+  },
+  {
+    "key": "CCS-34",
+    "summary": "Casts",
+    "status": "Artist To-Do",
+    "tags": []
+  },
+  {
+    "key": "CCS-35",
+    "summary": "Pickup/Drop Ores",
+    "status": "SCRIPTER TO DO",
+    "tags": []
+  }
+]
