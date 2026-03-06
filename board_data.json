@@ -153,8 +153,22 @@
   },
   {
     "key": "CCS-39",
-    "summary": "write contributing.md for repo",
+    "summary": "Write contributing.md for github repo",
     "status": "GENERAL TO-DO",
+    "tags": [
+      "Nick"
+    ]
+  },
+  {
+    "key": "CCS-40",
+    "summary": "Write readme.md for github repo",
+    "status": "GENERAL TO-DO",
+    "tags": []
+  },
+  {
+    "key": "CCS-41",
+    "summary": "Fix the Jira displayer site",
+    "status": "SCRIPTER TO DO",
     "tags": [
       "Nick"
     ]
