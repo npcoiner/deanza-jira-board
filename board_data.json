@@ -33,7 +33,9 @@
     "key": "CCS-13",
     "summary": "Character Sprite",
     "status": "Artist To-Do",
-    "tags": []
+    "tags": [
+      "Fab"
+    ]
   },
   {
     "key": "CCS-14",
@@ -44,9 +46,17 @@
   {
     "key": "CCS-16",
     "summary": "Music",
-    "status": "Artist To-Do",
+    "status": "MUSIC/SFX TO-DO",
     "tags": [
       "Caleb"
+    ]
+  },
+  {
+    "key": "CCS-37",
+    "summary": "Anvil SFX",
+    "status": "MUSIC/SFX TO-DO",
+    "tags": [
+      "Veda"
     ]
   },
   {
@@ -116,12 +126,6 @@
     "tags": []
   },
   {
-    "key": "CCS-32",
-    "summary": "Forge System",
-    "status": "SCRIPTER TO DO",
-    "tags": []
-  },
-  {
     "key": "CCS-33",
     "summary": "Ores",
     "status": "Artist To-Do",
@@ -135,17 +139,9 @@
   },
   {
     "key": "CCS-35",
-    "summary": "Pickup/Drop Ores",
-    "status": "SCRIPTER TO DO",
+    "summary": "Pickup/Drop Items",
+    "status": "COMPLETE",
     "tags": []
-  },
-  {
-    "key": "CCS-37",
-    "summary": "Anvil SFX",
-    "status": "Artist To-Do",
-    "tags": [
-      "Veda"
-    ]
   },
   {
     "key": "CCS-38",
