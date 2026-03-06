@@ -150,5 +150,13 @@
     "tags": [
       "Nick"
     ]
+  },
+  {
+    "key": "CCS-39",
+    "summary": "write contributing.md for repo",
+    "status": "GENERAL TO-DO",
+    "tags": [
+      "Nick"
+    ]
   }
 ]
