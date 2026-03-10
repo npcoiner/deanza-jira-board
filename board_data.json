@@ -30,14 +30,6 @@
     "tags": []
   },
   {
-    "key": "CCS-13",
-    "summary": "Character Sprite",
-    "status": "Artist To-Do",
-    "tags": [
-      "Fab"
-    ]
-  },
-  {
     "key": "CCS-14",
     "summary": "UI",
     "status": "Artist To-Do",
@@ -49,14 +41,6 @@
     "status": "MUSIC/SFX TO-DO",
     "tags": [
       "Caleb"
-    ]
-  },
-  {
-    "key": "CCS-37",
-    "summary": "Anvil SFX",
-    "status": "MUSIC/SFX TO-DO",
-    "tags": [
-      "Veda"
     ]
   },
   {
@@ -142,6 +126,22 @@
     "summary": "Pickup/Drop Items",
     "status": "COMPLETE",
     "tags": []
+  },
+  {
+    "key": "CCS-37",
+    "summary": "Anvil SFX",
+    "status": "COMPLETE",
+    "tags": [
+      "Veda"
+    ]
+  },
+  {
+    "key": "CCS-13",
+    "summary": "Character Sprite",
+    "status": "COMPLETE",
+    "tags": [
+      "Fab"
+    ]
   },
   {
     "key": "CCS-38",
