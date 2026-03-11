@@ -40,7 +40,8 @@
     "summary": "Music",
     "status": "MUSIC/SFX TO-DO",
     "tags": [
-      "Caleb"
+      "Caleb",
+      "Veda"
     ]
   },
   {
@@ -80,36 +81,6 @@
     "tags": []
   },
   {
-    "key": "CCS-22",
-    "summary": "Default",
-    "status": "Artist To-Do",
-    "tags": []
-  },
-  {
-    "key": "CCS-23",
-    "summary": "Item",
-    "status": "Artist To-Do",
-    "tags": []
-  },
-  {
-    "key": "CCS-24",
-    "summary": "Sword",
-    "status": "Artist To-Do",
-    "tags": []
-  },
-  {
-    "key": "CCS-25",
-    "summary": "Dagger",
-    "status": "Artist To-Do",
-    "tags": []
-  },
-  {
-    "key": "CCS-26",
-    "summary": "Hammer",
-    "status": "Artist To-Do",
-    "tags": []
-  },
-  {
     "key": "CCS-33",
     "summary": "Ores",
     "status": "Artist To-Do",
@@ -142,6 +113,30 @@
     "tags": [
       "Fab"
     ]
+  },
+  {
+    "key": "CCS-25",
+    "summary": "Dagger",
+    "status": "COMPLETE",
+    "tags": []
+  },
+  {
+    "key": "CCS-26",
+    "summary": "Hammer",
+    "status": "COMPLETE",
+    "tags": []
+  },
+  {
+    "key": "CCS-23",
+    "summary": "Item",
+    "status": "COMPLETE",
+    "tags": []
+  },
+  {
+    "key": "CCS-24",
+    "summary": "Sword",
+    "status": "COMPLETE",
+    "tags": []
   },
   {
     "key": "CCS-38",
