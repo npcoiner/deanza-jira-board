@@ -1,29 +1,11 @@
 [
   {
-    "key": "CCS-7",
-    "summary": "Finalize Club Project Idea",
-    "status": "GENERAL TO-DO",
-    "tags": []
-  },
-  {
-    "key": "CCS-9",
-    "summary": "Crafting System",
-    "status": "GENERAL TO-DO",
-    "tags": []
-  },
-  {
     "key": "CCS-10",
     "summary": "Assign Roles",
     "status": "GENERAL TO-DO",
     "tags": [
       "Nick"
     ]
-  },
-  {
-    "key": "CCS-11",
-    "summary": "Concept Art",
-    "status": "Artist To-Do",
-    "tags": []
   },
   {
     "key": "CCS-12",
@@ -112,6 +94,12 @@
     ]
   },
   {
+    "key": "CCS-11",
+    "summary": "Concept Art",
+    "status": "COMPLETE",
+    "tags": []
+  },
+  {
     "key": "CCS-13",
     "summary": "Character Sprite",
     "status": "COMPLETE",
@@ -161,7 +149,7 @@
   },
   {
     "key": "CCS-39",
-    "summary": "Write contributing.md for github repo",
+    "summary": "contributing.md",
     "status": "GENERAL TO-DO",
     "tags": [
       "Nick"
@@ -169,10 +157,40 @@
   },
   {
     "key": "CCS-40",
-    "summary": "Write readme.md for github repo",
+    "summary": "readme.md",
     "status": "GENERAL TO-DO",
     "tags": [
       "Nick"
     ]
+  },
+  {
+    "key": "CCS-42",
+    "summary": "Walking SFX",
+    "status": "MUSIC/SFX TO-DO",
+    "tags": []
+  },
+  {
+    "key": "CCS-43",
+    "summary": "Thud SFX",
+    "status": "MUSIC/SFX TO-DO",
+    "tags": []
+  },
+  {
+    "key": "CCS-44",
+    "summary": "Pickup SFX",
+    "status": "MUSIC/SFX TO-DO",
+    "tags": []
+  },
+  {
+    "key": "CCS-45",
+    "summary": "Game State Manager",
+    "status": "SCRIPTER TO DO",
+    "tags": []
+  },
+  {
+    "key": "CCS-46",
+    "summary": "Gameplay Design",
+    "status": "GENERAL TO-DO",
+    "tags": []
   }
 ]
