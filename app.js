@@ -2,7 +2,10 @@ async function refreshBoard() {
 	try {
 		// Cache-busting URL to ensure we get the latest file from GitHub
 		const response = await fetch(`board_data.json?t=${Date.now()}`);
-		const tasks = await response.json();
+		let tasks = await response.json();
+
+		// Filter out any tasks that have the status "Complete"
+		tasks = tasks.filter(t => t.status !== 'COMPLETE');
 
 		const board = document.getElementById('board');
 		const columns = tasks.reduce((acc, t) => {
@@ -34,6 +37,3 @@ async function refreshBoard() {
 
 // Initial load
 refreshBoard();
-
-// Re-check the JSON file every 5 minutes (300,000 ms)
-setInterval(refreshBoard, 300000);
