@@ -15,7 +15,9 @@
     "key": "CCS-10",
     "summary": "Assign Roles",
     "status": "GENERAL TO-DO",
-    "tags": []
+    "tags": [
+      "Nick"
+    ]
   },
   {
     "key": "CCS-11",
@@ -27,7 +29,9 @@
     "key": "CCS-12",
     "summary": "Environment",
     "status": "Artist To-Do",
-    "tags": []
+    "tags": [
+      "Karen"
+    ]
   },
   {
     "key": "CCS-14",
@@ -116,6 +120,14 @@
     ]
   },
   {
+    "key": "CCS-41",
+    "summary": "Fix the Jira displayer site",
+    "status": "COMPLETE",
+    "tags": [
+      "Nick"
+    ]
+  },
+  {
     "key": "CCS-25",
     "summary": "Dagger",
     "status": "COMPLETE",
@@ -159,12 +171,6 @@
     "key": "CCS-40",
     "summary": "Write readme.md for github repo",
     "status": "GENERAL TO-DO",
-    "tags": []
-  },
-  {
-    "key": "CCS-41",
-    "summary": "Fix the Jira displayer site",
-    "status": "SCRIPTER TO DO",
     "tags": [
       "Nick"
     ]
