@@ -108,6 +108,15 @@
     ]
   },
   {
+    "key": "CCS-38",
+    "summary": "Station",
+    "status": "COMPLETE",
+    "tags": [
+      "Nick",
+      "Vaishak"
+    ]
+  },
+  {
     "key": "CCS-41",
     "summary": "Fix the Jira displayer site",
     "status": "COMPLETE",
@@ -138,15 +147,6 @@
     "summary": "Sword",
     "status": "COMPLETE",
     "tags": []
-  },
-  {
-    "key": "CCS-38",
-    "summary": "Station",
-    "status": "SCRIPTER TO DO",
-    "tags": [
-      "Nick",
-      "Vaishak"
-    ]
   },
   {
     "key": "CCS-39",
