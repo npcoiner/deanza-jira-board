@@ -149,22 +149,6 @@
     "tags": []
   },
   {
-    "key": "CCS-39",
-    "summary": "contributing.md",
-    "status": "GENERAL TO-DO",
-    "tags": [
-      "Nick"
-    ]
-  },
-  {
-    "key": "CCS-40",
-    "summary": "readme.md",
-    "status": "GENERAL TO-DO",
-    "tags": [
-      "Nick"
-    ]
-  },
-  {
     "key": "CCS-42",
     "summary": "Walking SFX",
     "status": "MUSIC/SFX TO-DO",
@@ -220,5 +204,45 @@
       "Jaye",
       "Joshua"
     ]
+  },
+  {
+    "key": "CCS-50",
+    "summary": "Anvil",
+    "status": "Artist To-Do",
+    "tags": []
+  },
+  {
+    "key": "CCS-51",
+    "summary": "Forge",
+    "status": "SCRIPTER TO DO",
+    "tags": []
+  },
+  {
+    "key": "CCS-52",
+    "summary": "Anvil",
+    "status": "SCRIPTER TO DO",
+    "tags": []
+  },
+  {
+    "key": "CCS-40",
+    "summary": "readme.md",
+    "status": "SCRIPTER TO DO",
+    "tags": [
+      "Nick"
+    ]
+  },
+  {
+    "key": "CCS-39",
+    "summary": "contributing.md",
+    "status": "SCRIPTER TO DO",
+    "tags": [
+      "Nick"
+    ]
+  },
+  {
+    "key": "CCS-53",
+    "summary": "Prefabs for each object",
+    "status": "GENERAL TO-DO",
+    "tags": []
   }
 ]
