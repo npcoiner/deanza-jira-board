@@ -173,12 +173,6 @@
     "tags": []
   },
   {
-    "key": "CCS-46",
-    "summary": "Gameplay Design",
-    "status": "GENERAL TO-DO",
-    "tags": []
-  },
-  {
     "key": "CCS-47",
     "summary": "Basic Story",
     "status": "WRITER TO-DO",
@@ -244,5 +238,13 @@
     "summary": "Prefabs for each object",
     "status": "GENERAL TO-DO",
     "tags": []
+  },
+  {
+    "key": "CCS-54",
+    "summary": "Gameplay Mechanics/Design",
+    "status": "WRITER TO-DO",
+    "tags": [
+      "Jaye"
+    ]
   }
 ]
