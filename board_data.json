@@ -86,6 +86,33 @@
     "tags": []
   },
   {
+    "key": "CCS-49",
+    "summary": "Setting",
+    "status": "COMPLETE",
+    "tags": [
+      "Jaye",
+      "Joshua"
+    ]
+  },
+  {
+    "key": "CCS-48",
+    "summary": "Genre",
+    "status": "COMPLETE",
+    "tags": [
+      "Jaye",
+      "Joshua"
+    ]
+  },
+  {
+    "key": "CCS-47",
+    "summary": "Basic Story",
+    "status": "COMPLETE",
+    "tags": [
+      "Jaye",
+      "Joshua"
+    ]
+  },
+  {
     "key": "CCS-37",
     "summary": "Anvil SFX",
     "status": "COMPLETE",
@@ -171,33 +198,6 @@
     "summary": "Game State Manager",
     "status": "SCRIPTER TO DO",
     "tags": []
-  },
-  {
-    "key": "CCS-47",
-    "summary": "Basic Story",
-    "status": "WRITER TO-DO",
-    "tags": [
-      "Jaye",
-      "Joshua"
-    ]
-  },
-  {
-    "key": "CCS-48",
-    "summary": "Genre",
-    "status": "WRITER TO-DO",
-    "tags": [
-      "Jaye",
-      "Joshua"
-    ]
-  },
-  {
-    "key": "CCS-49",
-    "summary": "Setting",
-    "status": "WRITER TO-DO",
-    "tags": [
-      "Jaye",
-      "Joshua"
-    ]
   },
   {
     "key": "CCS-50",
