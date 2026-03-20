@@ -113,6 +113,22 @@
     ]
   },
   {
+    "key": "CCS-39",
+    "summary": "contributing.md",
+    "status": "COMPLETE",
+    "tags": [
+      "Nick"
+    ]
+  },
+  {
+    "key": "CCS-40",
+    "summary": "readme.md",
+    "status": "COMPLETE",
+    "tags": [
+      "Nick"
+    ]
+  },
+  {
     "key": "CCS-37",
     "summary": "Anvil SFX",
     "status": "COMPLETE",
@@ -216,22 +232,6 @@
     "summary": "Anvil",
     "status": "SCRIPTER TO DO",
     "tags": []
-  },
-  {
-    "key": "CCS-40",
-    "summary": "readme.md",
-    "status": "SCRIPTER TO DO",
-    "tags": [
-      "Nick"
-    ]
-  },
-  {
-    "key": "CCS-39",
-    "summary": "contributing.md",
-    "status": "SCRIPTER TO DO",
-    "tags": [
-      "Nick"
-    ]
   },
   {
     "key": "CCS-53",
