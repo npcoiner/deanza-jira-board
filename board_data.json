@@ -113,6 +113,14 @@
     ]
   },
   {
+    "key": "CCS-55",
+    "summary": "Basic bobbing animation",
+    "status": "COMPLETE",
+    "tags": [
+      "Nick"
+    ]
+  },
+  {
     "key": "CCS-39",
     "summary": "contributing.md",
     "status": "COMPLETE",
@@ -245,14 +253,6 @@
     "status": "WRITER TO-DO",
     "tags": [
       "Jaye"
-    ]
-  },
-  {
-    "key": "CCS-55",
-    "summary": "Basic bobbing animation",
-    "status": "SCRIPTER TO DO",
-    "tags": [
-      "Nick"
     ]
   }
 ]
