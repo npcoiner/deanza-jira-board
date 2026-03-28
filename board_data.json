@@ -246,5 +246,13 @@
     "tags": [
       "Jaye"
     ]
+  },
+  {
+    "key": "CCS-55",
+    "summary": "Basic bobbing animation",
+    "status": "SCRIPTER TO DO",
+    "tags": [
+      "Nick"
+    ]
   }
 ]
