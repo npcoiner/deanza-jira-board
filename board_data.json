@@ -238,18 +238,6 @@
     "tags": []
   },
   {
-    "key": "CCS-51",
-    "summary": "Forge",
-    "status": "SCRIPTER TO DO",
-    "tags": []
-  },
-  {
-    "key": "CCS-52",
-    "summary": "Anvil",
-    "status": "SCRIPTER TO DO",
-    "tags": []
-  },
-  {
     "key": "CCS-53",
     "summary": "Prefabs for each object",
     "status": "GENERAL TO-DO",
@@ -264,11 +252,23 @@
     ]
   },
   {
-    "key": "CCS-57",
-    "summary": "Physics Layers",
+    "key": "CCS-58",
+    "summary": "Refactor interact to IInteractable",
     "status": "SCRIPTER TO DO",
     "tags": [
       "Nick"
     ]
+  },
+  {
+    "key": "CCS-59",
+    "summary": "Main Menu",
+    "status": "SCRIPTER TO DO",
+    "tags": []
+  },
+  {
+    "key": "CCS-60",
+    "summary": "GOAL: Basic Game Loop Finished",
+    "status": "GENERAL TO-DO",
+    "tags": []
   }
 ]
