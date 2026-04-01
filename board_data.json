@@ -121,6 +121,14 @@
     ]
   },
   {
+    "key": "CCS-58",
+    "summary": "Refactor interact to IInteractable",
+    "status": "COMPLETE",
+    "tags": [
+      "Nick"
+    ]
+  },
+  {
     "key": "CCS-56",
     "summary": "Material for shadow support",
     "status": "COMPLETE",
@@ -249,14 +257,6 @@
     "status": "WRITER TO-DO",
     "tags": [
       "Jaye"
-    ]
-  },
-  {
-    "key": "CCS-58",
-    "summary": "Refactor interact to IInteractable",
-    "status": "SCRIPTER TO DO",
-    "tags": [
-      "Nick"
     ]
   },
   {
