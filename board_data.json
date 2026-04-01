@@ -270,5 +270,17 @@
     "summary": "GOAL: Basic Game Loop Finished",
     "status": "GENERAL TO-DO",
     "tags": []
+  },
+  {
+    "key": "CCS-61",
+    "summary": "Forge SFX",
+    "status": "MUSIC/SFX TO-DO",
+    "tags": []
+  },
+  {
+    "key": "CCS-62",
+    "summary": "Enemy System (AI/Class)",
+    "status": "SCRIPTER TO DO",
+    "tags": []
   }
 ]
