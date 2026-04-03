@@ -234,12 +234,6 @@
     "tags": []
   },
   {
-    "key": "CCS-45",
-    "summary": "Game State Manager",
-    "status": "SCRIPTER TO DO",
-    "tags": []
-  },
-  {
     "key": "CCS-50",
     "summary": "Anvil",
     "status": "Artist To-Do",
@@ -260,14 +254,20 @@
     ]
   },
   {
-    "key": "CCS-59",
-    "summary": "Main Menu",
-    "status": "SCRIPTER TO DO",
+    "key": "CCS-60",
+    "summary": "GOAL: Basic Game Loop Finished",
+    "status": "GENERAL TO-DO",
     "tags": []
   },
   {
-    "key": "CCS-60",
-    "summary": "GOAL: Basic Game Loop Finished",
+    "key": "CCS-65",
+    "summary": "Level One",
+    "status": "GENERAL TO-DO",
+    "tags": []
+  },
+  {
+    "key": "CCS-59",
+    "summary": "Main Menu",
     "status": "GENERAL TO-DO",
     "tags": []
   },
@@ -278,9 +278,41 @@
     "tags": []
   },
   {
+    "key": "CCS-63",
+    "summary": "Deposit Box",
+    "status": "SCRIPTER TO DO",
+    "tags": [
+      "Vaishak"
+    ]
+  },
+  {
     "key": "CCS-62",
     "summary": "Enemy System (AI/Class)",
     "status": "SCRIPTER TO DO",
+    "tags": []
+  },
+  {
+    "key": "CCS-45",
+    "summary": "Game State Manager",
+    "status": "SCRIPTER TO DO",
+    "tags": []
+  },
+  {
+    "key": "CCS-64",
+    "summary": "Casting system",
+    "status": "SCRIPTER TO DO",
+    "tags": []
+  },
+  {
+    "key": "CCS-66",
+    "summary": "Wall",
+    "status": "GENERAL TO-DO",
+    "tags": []
+  },
+  {
+    "key": "CCS-67",
+    "summary": "Wall (blank box)",
+    "status": "Artist To-Do",
     "tags": []
   }
 ]
