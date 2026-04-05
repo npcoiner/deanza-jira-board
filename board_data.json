@@ -314,5 +314,13 @@
     "summary": "Wall (blank box)",
     "status": "Artist To-Do",
     "tags": []
+  },
+  {
+    "key": "CCS-68",
+    "summary": "Move over to physics layers and use enums for identification",
+    "status": "SCRIPTER TO DO",
+    "tags": [
+      "Nick"
+    ]
   }
 ]
