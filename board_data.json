@@ -137,6 +137,14 @@
     ]
   },
   {
+    "key": "CCS-64",
+    "summary": "Casting system",
+    "status": "COMPLETE",
+    "tags": [
+      "Nick"
+    ]
+  },
+  {
     "key": "CCS-39",
     "summary": "contributing.md",
     "status": "COMPLETE",
@@ -294,12 +302,6 @@
   {
     "key": "CCS-45",
     "summary": "Game State Manager",
-    "status": "SCRIPTER TO DO",
-    "tags": []
-  },
-  {
-    "key": "CCS-64",
-    "summary": "Casting system",
     "status": "SCRIPTER TO DO",
     "tags": []
   },
