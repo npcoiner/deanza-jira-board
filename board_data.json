@@ -1,13 +1,5 @@
 [
   {
-    "key": "CCS-10",
-    "summary": "Assign Roles",
-    "status": "GENERAL TO-DO",
-    "tags": [
-      "Nick"
-    ]
-  },
-  {
     "key": "CCS-12",
     "summary": "Environment",
     "status": "Artist To-Do",
@@ -74,12 +66,6 @@
     "tags": []
   },
   {
-    "key": "CCS-34",
-    "summary": "Casts",
-    "status": "Artist To-Do",
-    "tags": []
-  },
-  {
     "key": "CCS-35",
     "summary": "Pickup/Drop Items",
     "status": "COMPLETE",
@@ -129,6 +115,12 @@
     ]
   },
   {
+    "key": "CCS-53",
+    "summary": "Prefabs for each object",
+    "status": "COMPLETE",
+    "tags": []
+  },
+  {
     "key": "CCS-56",
     "summary": "Material for shadow support",
     "status": "COMPLETE",
@@ -137,8 +129,32 @@
     ]
   },
   {
+    "key": "CCS-10",
+    "summary": "Assign Roles",
+    "status": "COMPLETE",
+    "tags": [
+      "Nick"
+    ]
+  },
+  {
     "key": "CCS-64",
     "summary": "Casting system",
+    "status": "COMPLETE",
+    "tags": [
+      "Nick"
+    ]
+  },
+  {
+    "key": "CCS-34",
+    "summary": "Casts",
+    "status": "COMPLETE",
+    "tags": [
+      "Nick"
+    ]
+  },
+  {
+    "key": "CCS-44",
+    "summary": "Pickup SFX",
     "status": "COMPLETE",
     "tags": [
       "Nick"
@@ -236,21 +252,9 @@
     "tags": []
   },
   {
-    "key": "CCS-44",
-    "summary": "Pickup SFX",
-    "status": "MUSIC/SFX TO-DO",
-    "tags": []
-  },
-  {
     "key": "CCS-50",
     "summary": "Anvil",
     "status": "Artist To-Do",
-    "tags": []
-  },
-  {
-    "key": "CCS-53",
-    "summary": "Prefabs for each object",
-    "status": "GENERAL TO-DO",
     "tags": []
   },
   {
@@ -294,26 +298,14 @@
     ]
   },
   {
-    "key": "CCS-62",
-    "summary": "Enemy System (AI/Class)",
-    "status": "SCRIPTER TO DO",
-    "tags": []
-  },
-  {
     "key": "CCS-45",
     "summary": "Game State Manager",
     "status": "SCRIPTER TO DO",
     "tags": []
   },
   {
-    "key": "CCS-66",
-    "summary": "Wall",
-    "status": "GENERAL TO-DO",
-    "tags": []
-  },
-  {
     "key": "CCS-67",
-    "summary": "Wall (blank box)",
+    "summary": "Walls",
     "status": "Artist To-Do",
     "tags": []
   },
@@ -324,5 +316,35 @@
     "tags": [
       "Nick"
     ]
+  },
+  {
+    "key": "CCS-69",
+    "summary": "Crucible should use MetalType for layers instead of OreType to support Steel",
+    "status": "SCRIPTER TO DO",
+    "tags": []
+  },
+  {
+    "key": "CCS-70",
+    "summary": "Clear slag functionality on Crucible",
+    "status": "SCRIPTER TO DO",
+    "tags": []
+  },
+  {
+    "key": "CCS-62",
+    "summary": "Enemy System (AI/Class)",
+    "status": "SCRIPTER TO DO",
+    "tags": []
+  },
+  {
+    "key": "CCS-71",
+    "summary": "Request Order System",
+    "status": "SCRIPTER TO DO",
+    "tags": []
+  },
+  {
+    "key": "CCS-72",
+    "summary": "General GameState Manager",
+    "status": "SCRIPTER TO DO",
+    "tags": []
   }
 ]
