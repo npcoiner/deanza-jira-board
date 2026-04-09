@@ -332,12 +332,6 @@
     "tags": []
   },
   {
-    "key": "CCS-62",
-    "summary": "Enemy System (AI/Class)",
-    "status": "SCRIPTER TO DO",
-    "tags": []
-  },
-  {
     "key": "CCS-71",
     "summary": "Request Order System",
     "status": "SCRIPTER TO DO",
@@ -346,6 +340,12 @@
   {
     "key": "CCS-72",
     "summary": "General GameState Manager",
+    "status": "SCRIPTER TO DO",
+    "tags": []
+  },
+  {
+    "key": "CCS-73",
+    "summary": "PlayerInteract code cleanup",
     "status": "SCRIPTER TO DO",
     "tags": []
   }
