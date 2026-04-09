@@ -129,6 +129,14 @@
     ]
   },
   {
+    "key": "CCS-68",
+    "summary": "Use enums for identification",
+    "status": "COMPLETE",
+    "tags": [
+      "Nick"
+    ]
+  },
+  {
     "key": "CCS-10",
     "summary": "Assign Roles",
     "status": "COMPLETE",
@@ -310,18 +318,12 @@
     "tags": []
   },
   {
-    "key": "CCS-68",
-    "summary": "Move over to physics layers and use enums for identification",
+    "key": "CCS-69",
+    "summary": "Crucible should use MetalType for layers instead of OreType to support Steel",
     "status": "SCRIPTER TO DO",
     "tags": [
       "Nick"
     ]
-  },
-  {
-    "key": "CCS-69",
-    "summary": "Crucible should use MetalType for layers instead of OreType to support Steel",
-    "status": "SCRIPTER TO DO",
-    "tags": []
   },
   {
     "key": "CCS-70",
