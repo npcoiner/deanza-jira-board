@@ -115,10 +115,42 @@
     ]
   },
   {
+    "key": "CCS-69",
+    "summary": "Crucible should use MetalType for layers instead of OreType to support Steel",
+    "status": "COMPLETE",
+    "tags": [
+      "Nick"
+    ]
+  },
+  {
+    "key": "CCS-63",
+    "summary": "Deposit Box",
+    "status": "COMPLETE",
+    "tags": [
+      "Vaishak"
+    ]
+  },
+  {
     "key": "CCS-53",
     "summary": "Prefabs for each object",
     "status": "COMPLETE",
     "tags": []
+  },
+  {
+    "key": "CCS-71",
+    "summary": "Request Order System",
+    "status": "COMPLETE",
+    "tags": [
+      "Nick"
+    ]
+  },
+  {
+    "key": "CCS-70",
+    "summary": "Clear slag functionality on Crucible",
+    "status": "COMPLETE",
+    "tags": [
+      "Nick"
+    ]
   },
   {
     "key": "CCS-56",
@@ -298,14 +330,6 @@
     "tags": []
   },
   {
-    "key": "CCS-63",
-    "summary": "Deposit Box",
-    "status": "SCRIPTER TO DO",
-    "tags": [
-      "Vaishak"
-    ]
-  },
-  {
     "key": "CCS-45",
     "summary": "Game State Manager",
     "status": "SCRIPTER TO DO",
@@ -315,26 +339,6 @@
     "key": "CCS-67",
     "summary": "Walls",
     "status": "Artist To-Do",
-    "tags": []
-  },
-  {
-    "key": "CCS-69",
-    "summary": "Crucible should use MetalType for layers instead of OreType to support Steel",
-    "status": "SCRIPTER TO DO",
-    "tags": [
-      "Nick"
-    ]
-  },
-  {
-    "key": "CCS-70",
-    "summary": "Clear slag functionality on Crucible",
-    "status": "SCRIPTER TO DO",
-    "tags": []
-  },
-  {
-    "key": "CCS-71",
-    "summary": "Request Order System",
-    "status": "SCRIPTER TO DO",
     "tags": []
   },
   {
