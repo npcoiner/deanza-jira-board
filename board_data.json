@@ -131,6 +131,14 @@
     ]
   },
   {
+    "key": "CCS-77",
+    "summary": "Requests Visual Support",
+    "status": "COMPLETE",
+    "tags": [
+      "Nick"
+    ]
+  },
+  {
     "key": "CCS-53",
     "summary": "Prefabs for each object",
     "status": "COMPLETE",
@@ -344,12 +352,6 @@
   {
     "key": "CCS-72",
     "summary": "General GameState Manager",
-    "status": "SCRIPTER TO DO",
-    "tags": []
-  },
-  {
-    "key": "CCS-73",
-    "summary": "PlayerInteract code cleanup",
     "status": "SCRIPTER TO DO",
     "tags": []
   }
