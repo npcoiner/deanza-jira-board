@@ -115,6 +115,14 @@
     ]
   },
   {
+    "key": "CCS-72",
+    "summary": "General GameState Manager",
+    "status": "COMPLETE",
+    "tags": [
+      "Nick"
+    ]
+  },
+  {
     "key": "CCS-69",
     "summary": "Crucible should use MetalType for layers instead of OreType to support Steel",
     "status": "COMPLETE",
@@ -300,6 +308,14 @@
     "tags": []
   },
   {
+    "key": "CCS-74",
+    "summary": "Coin/Money icon",
+    "status": "Artist To-Do",
+    "tags": [
+      "Parsa"
+    ]
+  },
+  {
     "key": "CCS-50",
     "summary": "Anvil",
     "status": "Artist To-Do",
@@ -338,21 +354,9 @@
     "tags": []
   },
   {
-    "key": "CCS-45",
-    "summary": "Game State Manager",
-    "status": "SCRIPTER TO DO",
-    "tags": []
-  },
-  {
     "key": "CCS-67",
     "summary": "Walls",
     "status": "Artist To-Do",
-    "tags": []
-  },
-  {
-    "key": "CCS-72",
-    "summary": "General GameState Manager",
-    "status": "SCRIPTER TO DO",
     "tags": []
   }
 ]
